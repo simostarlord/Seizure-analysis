@@ -1,0 +1,154 @@
+file,channel,bandpower,entropy
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG F3,1.6215382123842137e-11,0.5731631203546814
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG P3,4.2831615439876966e-11,0.5565043059036429
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG O1,8.221861723602779e-11,0.5573845287366557
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG F7,4.99322747002472e-11,0.566456980509127
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG T3,6.319895070683254e-11,0.5646416219621013
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG T5,8.690131004417311e-11,0.557138695831545
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG Fc5,3.2756943905287024e-11,0.5664985790114735
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG Cp1,2.3159314932873207e-11,0.5577201153630144
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG Cp5,4.67050440560051e-11,0.5607204969431713
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG F9,7.761910127471298e-11,0.5585136746426873
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG F4,1.80634427679117e-11,0.5861892085163549
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG C4,1.614170181788813e-11,0.5801185566018526
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG P4,4.076464358990858e-11,0.5642646283316723
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG F8,5.2233554701211545e-11,0.5663333287537863
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG T4,5.93200988347176e-11,0.5686827310493665
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG Cp6,4.640134818398921e-11,0.5650728497765031
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG F10,7.319862791237429e-11,0.5633301028962935
+analysis/PN03_seizure7_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN03_seizure7_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN03_seizure7_preictal_bandpower.csv,EEG FP2,5.943083827755574e-11,0.5748545664403639
+analysis/PN00_seizure1_preictal_bandpower.csv,EEG F3,5.886394488010497e-11,0.5763065382813878
+analysis/PN00_seizure1_preictal_bandpower.csv,EEG Fc5,9.132738189665964e-11,0.561141887488596
+analysis/PN00_seizure1_preictal_bandpower.csv,EEG Fz,2.4961092076917096e-11,0.5762511868704514
+analysis/PN00_seizure1_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN00_seizure1_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN13_seizure27_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN13_seizure27_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN13_seizure27_preictal_bandpower.csv,PLET,0.0,-0.0
+analysis/PN16_seizure30_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN16_seizure30_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN16_seizure30_preictal_bandpower.csv,PLET,0.0,-0.0
+analysis/PN07_seizure17_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN07_seizure17_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN07_seizure17_preictal_bandpower.csv,PLET,0.0,-0.0
+analysis/PN00_seizure2_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN00_seizure2_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN00_seizure3_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN00_seizure3_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN13_seizure28_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN13_seizure28_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN13_seizure28_preictal_bandpower.csv,PLET,0.0,-0.0
+analysis/PN00_seizure4_preictal_bandpower.csv,EEG Fp1,7.996840967724623e-11,0.5791873319168088
+analysis/PN00_seizure4_preictal_bandpower.csv,EEG Fc1,7.80701209966764e-11,0.5833815431525992
+analysis/PN00_seizure4_preictal_bandpower.csv,EEG Fp2,9.336337573818653e-11,0.5719149190281289
+analysis/PN00_seizure4_preictal_bandpower.csv,EEG F4,7.632928579424867e-11,0.584804306829541
+analysis/PN00_seizure4_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN00_seizure4_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN05_seizure9_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN05_seizure9_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG Fp1,4.1764340719321325e-11,0.5709355928939933
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG F3,1.7380467931671018e-11,0.5762090480525677
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG C3,1.6305783729065617e-11,0.5690596795642728
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG P3,9.29793284426358e-11,0.5603288546896678
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG O1,9.911273865009656e-11,0.5651481413480564
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG F7,5.960269828969669e-11,0.569088138524564
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG T5,9.397667112583912e-11,0.5597978477155355
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG Fc1,5.043662322407828e-12,0.5875133876883948
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG Fc5,3.2868576140207635e-11,0.5705156435831379
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG Cp1,2.998873343205992e-11,0.5632028038711264
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG Cp5,4.894601657735867e-11,0.5663696533305358
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG F9,8.750783777514126e-11,0.5679944183673998
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG Fz,1.0414175829570315e-11,0.5831455630733995
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG Cz,6.77099325642607e-12,0.5745352936414632
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG Pz,3.9113568811608446e-11,0.566427192571199
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG F4,1.1182802063729743e-11,0.5794232643548397
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG C4,2.2454011730333828e-11,0.5769065858308301
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG P4,4.6475162359820616e-11,0.571882462699799
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG O2,9.950217959071244e-11,0.5688121827270233
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG F8,5.144112182419137e-11,0.574954445762338
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG T4,5.688043058585773e-11,0.5694514456307892
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG T6,7.084400237707974e-11,0.5783178942550219
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG Fc6,2.92733212017381e-11,0.5828703541308398
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG Cp6,4.5726680876394825e-11,0.5712081583101862
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG F10,8.771065118014866e-11,0.5724439317050557
+analysis/PN03_seizure8_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN03_seizure8_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN03_seizure8_preictal_bandpower.csv,EEG FP2,5.0302187552385383e-11,0.5719732989019038
+analysis/PN13_seizure26_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN13_seizure26_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN13_seizure26_preictal_bandpower.csv,PLET,0.0,-0.0
+analysis/PN00_seizure0_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN00_seizure0_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN05_seizure11_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN05_seizure11_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN12_seizure23_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN12_seizure23_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN12_seizure23_preictal_bandpower.csv,PLET,0.0,-0.0
+analysis/PN16_seizure29_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN16_seizure29_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN16_seizure29_preictal_bandpower.csv,PLET,0.0,-0.0
+analysis/PN09_seizure18_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN09_seizure18_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN09_seizure18_preictal_bandpower.csv,PLET,0.0,-0.0
+analysis/PN12_seizure24_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN12_seizure24_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN12_seizure24_preictal_bandpower.csv,PLET,0.0,-0.0
+analysis/PN11_seizure21_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN11_seizure21_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN11_seizure21_preictal_bandpower.csv,PLET,0.0,-0.0
+analysis/PN09_seizure20_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN09_seizure20_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN09_seizure20_preictal_bandpower.csv,PLET,0.0,-0.0
+analysis/PN06_seizure13_preictal_bandpower.csv,EEG Cp1,1.7957772575975294e-11,0.589725511522129
+analysis/PN06_seizure13_preictal_bandpower.csv,EEG Cz,1.4979653725555958e-11,0.59243037011437
+analysis/PN06_seizure13_preictal_bandpower.csv,EEG Pz,4.5031719638557347e-11,0.5928659574709179
+analysis/PN06_seizure13_preictal_bandpower.csv,EEG P4,2.8285971941103543e-11,0.5901864313460373
+analysis/PN06_seizure13_preictal_bandpower.csv,EEG Cp2,1.766406439357631e-11,0.5909634782505927
+analysis/PN06_seizure13_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN06_seizure13_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN06_seizure14_preictal_bandpower.csv,EEG C3,3.089668401599666e-11,0.5907783551953609
+analysis/PN06_seizure14_preictal_bandpower.csv,EEG P3,5.972608703825662e-11,0.5882748399086348
+analysis/PN06_seizure14_preictal_bandpower.csv,EEG O1,7.67489672604932e-11,0.5900524273242025
+analysis/PN06_seizure14_preictal_bandpower.csv,EEG T5,8.422677425617476e-11,0.5844618504877911
+analysis/PN06_seizure14_preictal_bandpower.csv,EEG Cp1,2.750876564940768e-11,0.5857292971456712
+analysis/PN06_seizure14_preictal_bandpower.csv,EEG Cz,6.272036409686072e-12,0.5922817991287983
+analysis/PN06_seizure14_preictal_bandpower.csv,EEG Pz,5.246086366817765e-11,0.5849650766717186
+analysis/PN06_seizure14_preictal_bandpower.csv,EEG C4,1.1585447994552534e-11,0.589806008062578
+analysis/PN06_seizure14_preictal_bandpower.csv,EEG P4,3.662411297220385e-11,0.5876193786547981
+analysis/PN06_seizure14_preictal_bandpower.csv,EEG Cp2,1.9121009783167213e-11,0.5823799460173984
+analysis/PN06_seizure14_preictal_bandpower.csv,EEG Cp6,3.1806668681254676e-11,0.5912960077624723
+analysis/PN06_seizure14_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN06_seizure14_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN01_seizure6_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN01_seizure6_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN06_seizure15_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN06_seizure15_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN17_seizure31_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN17_seizure31_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN17_seizure31_preictal_bandpower.csv,PLET,0.0,-0.0
+analysis/PN06_seizure12_preictal_bandpower.csv,EEG C3,9.322186559133711e-11,0.5529728826460169
+analysis/PN06_seizure12_preictal_bandpower.csv,EEG Fc1,1.7081732944734392e-11,0.5806956419629878
+analysis/PN06_seizure12_preictal_bandpower.csv,EEG Fz,5.3830374926906204e-11,0.5537734052739938
+analysis/PN06_seizure12_preictal_bandpower.csv,EEG C4,9.283717458430367e-11,0.5514991758967652
+analysis/PN06_seizure12_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN06_seizure12_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN12_seizure25_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN12_seizure25_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN12_seizure25_preictal_bandpower.csv,PLET,0.0,-0.0
+analysis/PN09_seizure19_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN09_seizure19_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN09_seizure19_preictal_bandpower.csv,PLET,0.0,-0.0
+analysis/PN17_seizure32_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN17_seizure32_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN17_seizure32_preictal_bandpower.csv,PLET,0.0,-0.0
+analysis/PN12_seizure22_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN12_seizure22_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN12_seizure22_preictal_bandpower.csv,PLET,0.0,-0.0
+analysis/PN05_seizure10_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN05_seizure10_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN01_seizure5_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN01_seizure5_preictal_bandpower.csv,HR,0.0,-0.0
+analysis/PN06_seizure16_preictal_bandpower.csv,SPO2,0.0,-0.0
+analysis/PN06_seizure16_preictal_bandpower.csv,HR,0.0,-0.0
