@@ -18,7 +18,7 @@ A full technical report documenting the complete methodology, results, and discu
 
 🔗 [View Technical Report (PDF)](https://drive.google.com/file/d/1ct484xs26T8DHa8BfpfZkqXFtC8YG2dj/view?usp=share_link)
 
-The report covers signal preprocessing, feature extraction, statistical analysis, and machine learning classification in IEEE two-column format.
+The report covers signal preprocessing, feature extraction, statistical analysis, and machine learning classification.
 
 ---
 
