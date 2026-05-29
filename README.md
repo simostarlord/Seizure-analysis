@@ -116,12 +116,12 @@ Run scripts in order. All scripts use paths relative to their own location.
 ```bash
 python 1_visualisation.py
 python 2_pre-processing.py
-python "3_feature-extraction-bandpowervalues.py"
-python "3_feature-extraction-entropy_values.py"
-python "4_analysis-bandpower_bargraph.py"
-python "4_analysis-bandpower_boxplot.py"
-python "4_analysis-entropy_bargraph.py"
-python "4_analysis-entropy_ttest-boxplot.py"
+python 3_feature-extraction-bandpowervalues.py
+python 3_feature-extraction-entropy_values.py
+python 4_analysis-bandpower_bargraph.py
+python 4_analysis-bandpower_boxplot.py
+python 4_analysis-entropy_bargraph.py
+python 4_analysis-entropy_ttest-boxplot.py
 python 5-thresholds-entropy.py
 python 6-detection.py
 python 7_ml_classification.py
