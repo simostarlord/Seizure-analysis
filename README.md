@@ -76,7 +76,7 @@ Higher amplitude and channel-correlated activity visible in the preictal window 
 ---
 
 ### Extracted Band Power Features
-![Band Power Table](Screenshot_2026-05-29_at_10_57_03_AM.png)
+![Band Power Table](a.png)
 
 Per-channel spectral band power values (delta, theta, alpha, beta) for PN00 Seizure 2 (preictal). Values span several orders of magnitude across channels.
 
